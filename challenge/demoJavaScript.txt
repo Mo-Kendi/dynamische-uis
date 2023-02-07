@@ -1,0 +1,20 @@
+<html>
+<body>
+    <h1>Demo Java script</h1>
+    <button id="start">start</button>
+    <div id = "result"> result nog niets te zien
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
