@@ -16,7 +16,7 @@ for i in range(num-2, 0, -2):
     nummers = str(i) * i
     print(spatie + nummers)
 
-    
+
 # maak een string-.join en dan de list meegeven
 # spatie = '-'.join(['1','2','3'])
 # print(spatie)
